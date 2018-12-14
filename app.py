@@ -12,7 +12,3 @@ if __name__=="__main__":
 						 #port recibe entero y cambia el puerto utilizado 
 						 #host="0.0.0.0" esto abre al aplicacivo para escuchar peticiones de una red lan
 
-# el commit empiesa aqui
-
-
-#segundo commit par aver 
